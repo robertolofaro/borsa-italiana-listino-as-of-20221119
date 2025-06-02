@@ -33,4 +33,5 @@ Rationale of dataset and the associated project: [Reading pre- and post-COVID co
 * this README.md
 * repository2019_directory - 2019 public annual reports for the companies selected
 * repository2021_directory - 2021 public annual reports for the companies selected
+* MIB40samplestudy - Jupyter Notebook and other files related to a sub-project on companies within the MIB40 index
 * further directories will follow
